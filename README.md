@@ -1,7 +1,8 @@
 # PUN2Learning
-## Learning Project by Kev
 
-### Demo
+## PUN2 2.30 Learning Project by Kev
+
+### Previews
 ![join-master](https://user-images.githubusercontent.com/25262306/183029992-c4f3b16b-509b-47e4-8e34-7dc948c5685d.gif)
 
 ![player_sync](https://user-images.githubusercontent.com/25262306/183030032-58d7ce7f-e702-4388-880b-be85c8d82461.gif)
