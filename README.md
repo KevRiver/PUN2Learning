@@ -39,5 +39,3 @@
 ![PUN2_LearningProject 017](https://user-images.githubusercontent.com/25262306/183029770-ea772564-a96c-4916-b72e-6170a3637186.jpeg)
 
 ![PUN2_LearningProject 018](https://user-images.githubusercontent.com/25262306/183029773-f2658d16-394d-4138-bed0-58549d2a01ec.jpeg)
-
-![PUN2_LearningProject 019](https://user-images.githubusercontent.com/25262306/183029776-538af60b-1959-4b96-81c8-e01c8d1c93de.jpeg)
