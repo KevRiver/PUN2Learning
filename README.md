@@ -7,7 +7,7 @@
 
 ![player_sync](https://user-images.githubusercontent.com/25262306/183030032-58d7ce7f-e702-4388-880b-be85c8d82461.gif)
 
-### PPT
+### Summary
 ![PUN2_LearningProject 001](https://user-images.githubusercontent.com/25262306/183029706-8fa09c55-7543-44fb-a4f8-ee42890c4d4a.jpeg)
 
 ![PUN2_LearningProject 002](https://user-images.githubusercontent.com/25262306/183029719-9c95e3b2-ff47-463a-99ef-7c0086a6d761.jpeg)
